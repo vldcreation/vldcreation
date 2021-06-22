@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning Kotlin
 - 🤔 I’m looking for help with Kotlin
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvldcreation&count_bg=%238D00FF&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23008CFF&title=Page+Views+&edge_flat=false)
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Flinktr.ee%2FVLDcreation&count_bg=%238D00FF&title_bg=%23000000&icon=visualstudiocode.svg&icon_color=%23008CFF&title=Page+Views+&edge_flat=false)
 
 ![vldcreation's GitHub stats](https://github-readme-stats.vercel.app/api?username=vldcreation&show_icons=true&theme=radical)
 
