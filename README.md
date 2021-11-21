@@ -9,5 +9,3 @@
 - 🌱 I’m currently learning Kotlin
 - 🤔 I’m looking for help with Kotlin
 - 🎓 I'm fokus on Back-End Developer
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vldcreation&theme=radical&hide_langs_below=1)
